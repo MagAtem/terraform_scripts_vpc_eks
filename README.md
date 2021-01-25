@@ -30,7 +30,7 @@ $ source ~/.bashrc
 ```
 #### Clone terraform scripts
 ``` sh
-$ git clone https://github.com/org/TerraformScripts.git
+$ git clone git@github.com:MagAtem/terraform_scripts_vpc_eks.git
 $ cd TerraformScripts
 ```
 #### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
